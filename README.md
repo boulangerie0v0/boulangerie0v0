@@ -6,7 +6,7 @@
     <ul> ▹ Japanese</ul>
     <ul> ▹ So much more ^-^ </ul>
   <p>🤔 Ask me about:</p>
-    <ul> ▹ Machine Learning algorithms</ul>
+    <ul> ▹ ML algorithms</ul>
     <ul> ▹ Deep Learning</ul>
     <ul> ▹ Mathematics</ul>
   <p>⚡ Fun fact, I can speak:</p>
