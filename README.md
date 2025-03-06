@@ -2,9 +2,8 @@
   <p style="text-align:center;"><strong><h1>Hello! I'm Valeria :D</h1></strong></p>
   <samp><h2>About Me:</h2></samp>
   <p>🌱 I'm currently learning:</p>
-    <ul> ▹ Reinforcement learning</ul>
-    <ul> ▹ JavaScript </ul>
-    <ul> ▹ Japanese</ul>
+    <ul> ▹ more Django </ul>
+    <ul> ▹ React Native </ul>
     <ul> ▹ So much more ^-^ </ul>
   <p>🤔 Ask me about:</p>
     <ul> ▹ ML algorithms</ul>
